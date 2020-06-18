@@ -5,6 +5,10 @@
 			{
 				"appID": "C94329WK33.com.tengyun.yynar",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "C94329WK33.com.hiscene.bocgz",
+				"paths": [ "*"]
 			}
 		]
 	}
